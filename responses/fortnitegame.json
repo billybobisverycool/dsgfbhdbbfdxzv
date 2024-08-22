@@ -46,8 +46,8 @@
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
             "subgame": "br",
-            "body": "Made by kemo (@xkem0x)\nMaintained by Hybrid (@unrealhybrid).\nDiscord: https://discord.gg/neo-mods-897532507048796210",
-            "title": "Neonite V2",
+            "body": "Made by vikky (@vikky__)",
+            "title": "VikkyFN",
             "spotlight": false
         }]
     },
@@ -70,8 +70,8 @@
             {
                 "hidden": false,
                 "_type": "CommonUI Emergency Notice Base",
-                "title": "Neonite V2",
-                "body": "Made by kemo (@xkem0x)\nMaintained by Hybrid (@unrealhybrid).\nDiscord: https://discord.gg/neo-mods-897532507048796210"
+                "title": "VikkyFN2",
+                "body": "Made by vikky (@vikky__)"
             }
         ]
     },
@@ -87,10 +87,10 @@
             "tileImage": "",
             "videoMute": false,
             "hidden": false,
-            "tabTitleOverride": "Neonite V2",
+            "tabTitleOverride": "VikkyFN",
             "_type": "CommonUI Simple Message MOTD",
             "title": "Neonite",
-            "body": "Made by Kemo (@xkem0x) and maintained by Beat (@TheBeatYT_evil). If you have any bugs, you can join our Discord by clicking the button below.",
+            "body": "Made by vikky (@vikky__). If you have any bugs, you can join our Discord by clicking the button below.",
             "videoLoop": false,
             "videoStreamingEnabled": false,
             "sortingPriority": 0,
@@ -98,7 +98,7 @@
             "videoAutoplay": false,
             "videoFullscreen": false,
             "spotlight": false,
-            "websiteURL": "https://discord.gg/DJ6VUmD",
+            "websiteURL": "https://discord.gg/vaultedhangout",
             "websiteButtonText": "Join our discord"
         }]
     },
