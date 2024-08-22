@@ -1,5 +1,19 @@
 @echo off
-if not exist node_modules (call npm i && call npm install sails -g)
+setlocal
+
+REM Check if node_modules directory exists
+if not exist node_modules (
+    echo Installing local dependencies...
+    call npm install
+    echo Installing Sails globally...
+    call npm install -g sails
+)
+
+REM Set the terminal title
 title vikkyfn
+
+REM Run the Node.js application
 node app.js
-cmd /k
+
+REM Keep the command prompt open
+pause
